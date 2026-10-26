@@ -1,0 +1,4 @@
+# Optional local Hugging Face inference dependencies
+-r requirements.txt
+transformers>=4.38.0
+accelerate>=0.28.0
